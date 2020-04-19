@@ -1,0 +1,16 @@
+.screen{
+    width:100px;
+    height: 50px;
+    border: solid; 
+}
+
+.stash{
+    font-size:10px;
+    
+}
+
+.button{
+    border: solid;
+    width:30px;
+    height:30px;
+}
